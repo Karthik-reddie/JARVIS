@@ -1,2 +1,6 @@
-pip install flask gunicorn
-pip freeze > requirements.txt
+flask
+gunicorn
+streamlit
+speechrecognition
+pyttsx3
+pyaudio
